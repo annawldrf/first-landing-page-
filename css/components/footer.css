@@ -1,0 +1,16 @@
+.footer {
+  background-color: rgb(86, 86, 121);
+  text-align: center;
+  padding: 60px;
+}
+
+.footer .icon {
+  font-size: 30px;
+  color: white;
+}
+
+.footer h3 {
+  font-size: 12px;
+  font-weight: lighter;
+  color: rgb(144, 195, 230);
+}
